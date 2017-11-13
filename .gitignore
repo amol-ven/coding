@@ -1,0 +1,5 @@
+a.out
+*.o
+cscope.in.out
+cscope.out
+cscope.po.out
